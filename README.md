@@ -9,4 +9,11 @@
 ## _Seguem meus contatos:_
 
 [![Logo Instagram](https://user-images.githubusercontent.com/59417347/228627506-bb9dcb61-7118-4210-a917-b844a1c38316.png)](https://www.instagram.com/wilson_hipolito_cerq/)
+[![Logo Linkedin](https://user-images.githubusercontent.com/59417347/228631953-d90bb4ff-f92e-4ed6-9bac-2d074a28dc11.png)](https://www.linkedin.com/in/wilson-hip%C3%B3lito/)
+[![icons8-twitter-dentro-de-um-círculo-50](https://user-images.githubusercontent.com/59417347/228632464-c234be6d-d18d-4aad-946e-2a8d62b58e1e.png)](https://twitter.com/WilsonHiplito1)
+[![icons8-whatsapp-50](https://user-images.githubusercontent.com/59417347/228632813-ac89d80b-8571-44a5-aa6f-602e00dbe2a6.png)](https://wa.me/5515998205858)
+
+
+
+
 
