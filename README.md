@@ -14,10 +14,10 @@
 [![icons8-whatsapp-50](https://user-images.githubusercontent.com/59417347/228632813-ac89d80b-8571-44a5-aa6f-602e00dbe2a6.png)](https://wa.me/5515998205858)
 
 ---
+![Wilson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson-Hipolito&show_icons=true&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
