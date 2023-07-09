@@ -17,12 +17,6 @@
 ---
 ![Wilson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson-Hipolito&show_icons=true&theme=tokyonight)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![homercat](https://github.com/Wilson-Hipolito/Wilson_Hipolito/assets/59417347/5aa5e6eb-21cd-4a00-87a2-534c9cf7e1f4)
 
-
-https://user-images.githubusercontent.com/59417347/228651460-0c9a6447-2241-4129-886b-a087a3d195e1.mp4
 
